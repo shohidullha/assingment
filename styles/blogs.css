@@ -1,0 +1,10 @@
+header{
+    background: rgba(225, 144, 14, 0.14);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul{
+    display: flex;
+}
